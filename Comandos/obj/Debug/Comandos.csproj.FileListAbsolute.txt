@@ -1,0 +1,10 @@
+C:\Users\ShairPlatinum\source\repos\Comandos\Comandos\obj\Debug\Comandos.csprojAssemblyReference.cache
+C:\Users\ShairPlatinum\source\repos\Comandos\Comandos\obj\Debug\Comandos.Form1.resources
+C:\Users\ShairPlatinum\source\repos\Comandos\Comandos\obj\Debug\Comandos.Properties.Resources.resources
+C:\Users\ShairPlatinum\source\repos\Comandos\Comandos\obj\Debug\Comandos.csproj.GenerateResource.cache
+C:\Users\ShairPlatinum\source\repos\Comandos\Comandos\obj\Debug\Comandos.csproj.CoreCompileInputs.cache
+C:\Users\ShairPlatinum\source\repos\Comandos\Comandos\bin\Debug\Comandos.exe.config
+C:\Users\ShairPlatinum\source\repos\Comandos\Comandos\bin\Debug\Comandos.exe
+C:\Users\ShairPlatinum\source\repos\Comandos\Comandos\bin\Debug\Comandos.pdb
+C:\Users\ShairPlatinum\source\repos\Comandos\Comandos\obj\Debug\Comandos.exe
+C:\Users\ShairPlatinum\source\repos\Comandos\Comandos\obj\Debug\Comandos.pdb
